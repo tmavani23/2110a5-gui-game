@@ -1,0 +1,36 @@
+# Assignment 4 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (tm669)
+Partner 2: Firstname Lastname (sg2293)
+
+Hours spent working on this assignment: 6.0
+
+## Verification questions
+
+1. When an error occurs while trying to save a score to a file (for example,
+   choosing a file in a read-only system directory), what is the message that is
+   shown in your error dialog?  (note: answers will vary depending on your
+   operating system).
+
+   Answer: Error message: "An error occured while saving the score: Access is denied"
+   Error class: java.io.IOException
+
+## Reflection questions
+
+1. Which of the Swing tutorial pages did you find the most interesting and/or
+   helpful while implementing your graphical application?
+
+   Answer: I thought that the Swing paint component of the application was the most interesting, as it was cool to implement the action listener to swithc the dot's color.
+
+2. Are you aware of any areas where your submission is not working as intended?
+   If so, describe the issue and what you did to try to diagnose it.  Otherwise,
+   describe how you verified that your submission fulfilled its requirements.
+
+   Answer: We went through the entire testing rubric and checked whether or not our game fufilled the required rubric.
+
+3. Did you embellish your program in any way?  If so, describe your changes /
+   improvements.
+
+   Answer: We took special care to get all of the color and positioning of the elements on the frame correct
